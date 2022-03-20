@@ -1,0 +1,31 @@
+2022/03/18-21:29:43.933 5703 Creating DB /root/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2022/03/18-21:29:43.940 5703 Reusing MANIFEST /root/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/03/18-21:29:44.678 5701 Level-0 table #5: started
+2022/03/18-21:29:44.698 5701 Level-0 table #5: 1514131 bytes OK
+2022/03/18-21:29:44.701 5701 Delete type=0 #3
+2022/03/18-21:33:31.311 7e73 Level-0 table #7: started
+2022/03/18-21:33:31.334 7e73 Level-0 table #7: 2048504 bytes OK
+2022/03/18-21:33:31.338 7e73 Delete type=0 #4
+2022/03/18-21:40:04.190 7e73 Level-0 table #9: started
+2022/03/18-21:40:04.210 7e73 Level-0 table #9: 1701762 bytes OK
+2022/03/18-21:40:04.214 7e73 Delete type=0 #6
+2022/03/18-21:46:44.792 5aff Level-0 table #11: started
+2022/03/18-21:46:44.812 5aff Level-0 table #11: 1721758 bytes OK
+2022/03/18-21:46:44.815 5aff Delete type=0 #8
+2022/03/18-21:46:44.865 5a29 Level-0 table #13: started
+2022/03/18-21:46:44.881 5a29 Level-0 table #13: 2800813 bytes OK
+2022/03/18-21:46:44.885 5a29 Delete type=0 #10
+2022/03/19-21:48:46.226 175b Level-0 table #15: started
+2022/03/19-21:48:46.247 175b Level-0 table #15: 2404961 bytes OK
+2022/03/19-21:48:46.251 175b Delete type=0 #12
+2022/03/19-21:48:46.251 175b Compacting 4@0 + 1@1 files
+2022/03/19-21:48:46.270 175b Generated table #16@0: 17 keys, 2144422 bytes
+2022/03/19-21:48:46.292 175b Generated table #17@0: 8 keys, 3200654 bytes
+2022/03/19-21:48:46.302 175b Generated table #18@0: 14 keys, 773252 bytes
+2022/03/19-21:48:46.302 175b Compacted 4@0 + 1@1 files => 6118328 bytes
+2022/03/19-21:48:46.306 175b compacted to: files[ 0 3 1 0 0 0 0 ]
+2022/03/19-21:48:46.306 175b Delete type=2 #11
+2022/03/19-21:48:46.306 175b Delete type=2 #13
+2022/03/19-21:48:46.306 175b Delete type=2 #15
+2022/03/19-21:48:46.306 175b Delete type=2 #7
+2022/03/19-21:48:46.306 175b Delete type=2 #9
