@@ -1,3 +1,4 @@
+shopt -s cdable_vars
 # /etc/bash/bashrc
 #
 # This file is sourced by all *interactive* bash shells on startup,
@@ -124,4 +125,7 @@ alias editMakeConf="vim /etc/portage/make.conf"
 alias vcode="vscode --no-sandbox --user-data-dir=/home/ian"
 alias checkBuildStatus="cd /usr/tmp/portage/"
 alias updateDotFiles="cp -rf /root/.bashrc .bash_profile .config .vimrc .Xauthority .Xresources /root/myGentooConfigFiles/gentooLaptop"
+function mark { export $1=`pwd`;}
+alias pushDotFiles="mark there  && cd /root/myGentooConfigFiles/ && git commit -a && git push && cd $there"
 alias clear="clear && neofetch"
+alias editBash="vim /root/.bashrc"

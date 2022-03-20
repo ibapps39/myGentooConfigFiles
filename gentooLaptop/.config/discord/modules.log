@@ -442,3 +442,7 @@
 [Modules] Finished module downloads. [success: 1] [failure: 0]
 [Modules] Installing discord_rpc@1 from /root/.config/discord/0.0.17/modules/pending/discord_rpc-1.zip
 [Modules] Finished module installations. [success: 1] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
